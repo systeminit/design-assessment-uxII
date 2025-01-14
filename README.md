@@ -10,7 +10,7 @@ We use a take-home assessment to allow you to work in your most productive envir
 
 ## What you'll be building
 
-We would like you to design a feature that visualizes team activity on the System Initiative workspace. Specifically, this feature should:
+We would like you to design a feature that visualizes team activity on the System Initiative workspace (as below). Specifically, this feature should:
 
 * Display areas of high collaboration and interaction in real time or over a specified period.
 * Adapt dynamically as users zoom in or out, ensuring it scales seamlessly with varying numbers of collaborators.
@@ -46,3 +46,18 @@ When you’ve finished, share the Figma link containing your high-fidelity proto
 If you'd like to keep the work private then you can share the link with `paul@systeminit.com` and `mahir@systeminit.com` as collaborators
 
 We look forward to reviewing your work and discussing your thought process in the follow-up session!
+
+## Screenshots of the workspace
+
+This is the entire workspace:
+
+![entire-workspace](entire-workspace.png)
+
+
+This is a segment of the workspace we have zoomed in on:
+![more-zoomed](more-zoomed.png)
+
+This is a more detailed component view:
+![more-detailed view](forty-nine-percent-zoom.png)
+
+This [link](https://share.descript.com/view/eivL0FeBwdB) is a short video of the way the zooming works on the canvas

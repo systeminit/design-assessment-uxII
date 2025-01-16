@@ -8,22 +8,16 @@ This document outlines the UX Designer II take-home assessment for System Initia
 
 We use a take-home assessment to allow you to work in your most productive environment. Feel free to use any tools, resources, or references that you need. We recommend spending no more than 4 hours on this assessment. While the scope of this exercise may exceed the time allotted, we aim to understand how you prioritize and break down complex problems into manageable deliverables.
 
-## What you'll be building
+## What you will be building
 
-We would like you to design a feature that visualizes team activity on the System Initiative workspace (as below). Specifically, this feature should:
+At System Initiative, we work using [opportunities](https://docs.systeminit.com/explanation/working-on-si) so we wanted to break down the problem using an opportunity canvas
 
-* Display areas of high collaboration and interaction in real time or over a specified period.
-* Adapt dynamically as users zoom in or out, ensuring it scales seamlessly with varying numbers of collaborators.
+[![UX Designer Opportunity Canvas](https://img.youtube.com/vi/8OIR5kvIq7E/0.jpg)](https://www.youtube.com/watch?v=8OIR5kvIq7E)
 
-### Key Considerations
-
-* The design should integrate seamlessly with the current user experience and adhere to the design principles of System Initiative.
-* Emphasize how the feature enhances collaboration and adds value to users.
 
 ## Deliverables
 
-1. High-Fidelity Prototype, Wireframes or User Flow Diagrams
-  that clearly illustrate how a user would engage with the feature from start to finish.
+1. Wireframes that clearly illustrate how a user would engage with the feature from start to finish.
   
 2. Design Rationale
   Be prepared to discuss your design decisions during a follow-up session. Highlight:
@@ -47,17 +41,8 @@ If you'd like to keep the work private then you can share the link with `paul@sy
 
 We look forward to reviewing your work and discussing your thought process in the follow-up session!
 
-## Screenshots of the workspace
+## Screenshots of a workspace
 
-This is the entire workspace:
+A sample workspace we'd like to apply this problem to is:
 
-![entire-workspace](entire-workspace.png)
-
-
-This is a segment of the workspace we have zoomed in on:
-![more-zoomed](more-zoomed.png)
-
-This is a more detailed component view:
-![more-detailed view](forty-nine-percent-zoom.png)
-
-This [link](https://share.descript.com/view/eivL0FeBwdB) is a short video of the way the zooming works on the canvas
+![workspace](workspace.png)

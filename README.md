@@ -46,3 +46,5 @@ We look forward to reviewing your work and discussing your thought process in th
 A sample workspace we'd like to apply this problem to is:
 
 ![workspace](workspace.png)
+
+This workspace is the result of running our [AWS VPC](https://docs.systeminit.com/how-tos/aws-vpc) tutorial. You can use that tutorial to build the same workspace
